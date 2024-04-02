@@ -74,9 +74,4 @@ You can view my version at
 
 4. You can navigate back to the home page to perform another search.
 
-## Troubleshooting
-
-- If you encounter any issues with connecting to the MySQL database or executing remote commands, ensure that your database and EC2 instance are properly configured and accessible.
-
-- Double-check your MySQL database details and EC2 instance IP address in the `config.py` file and `app.py` respectively.
 
